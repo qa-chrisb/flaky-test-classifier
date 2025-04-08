@@ -30,5 +30,3 @@ python cli.py --input data/synthetic_test_data.csv
 ```
 
 ---
-
-Let me know when you're ready to expand into visualisation, API, or CI/CD integration.
